@@ -1,0 +1,4885 @@
+{
+  "schemaVersion" : "1.0",
+  "name" : "dependency-sdsm",
+  "variables" : [ "Pytorch Files/_tensor.py", "Pytorch Files/activation.py", "Pytorch Files/checkpoint.py", "Pytorch Files/function.py", "Pytorch Files/functional.py", "Pytorch Files/rnn.py", "Pytorch Files/transformer.py" ],
+  "cells" : [ {
+    "src" : 2,
+    "dest" : 1,
+    "values" : {
+      "Use" : 1.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\checkpoint.py",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 10
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.__all__",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 12
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 1,
+    "dest" : 4,
+    "values" : {
+      "Use" : 66.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Threshold.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 58
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Threshold.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 58
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 102
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 102
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 168
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 168
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardtanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 235
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardtanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 235
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Sigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 295
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Sigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 295
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardsigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 334
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardsigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 334
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 359
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 359
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SiLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 396
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SiLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 396
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Mish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 432
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Mish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 432
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardswish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 475
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardswish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 475
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 517
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 517
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 561
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 561
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 610
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 610
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 644
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 644
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 685
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 685
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 727
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 727
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LeakyReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 777
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LeakyReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 777
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 804
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 804
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softplus.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 843
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softplus.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 843
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 883
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 883
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1042
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1043
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1044
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1045
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1047
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1049
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1049
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1245
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1245
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1246
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1246
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.PReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1346
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.PReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1346
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softsign.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1372
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softsign.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1372
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanhshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1395
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanhshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1395
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmin.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1440
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmin.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1440
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1496
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1496
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax2d.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1525
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax2d.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1525
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSoftmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1567
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSoftmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1567
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 6,
+    "dest" : 4,
+    "values" : {
+      "Use" : 57.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 53
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 53
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 87
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 87
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.generate_square_subsequent_mask",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 152
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 197
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 198
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 199
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 200
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 351
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 351
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 352
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 353
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 447
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 447
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 487
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 488
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 489
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 490
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 604
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 613
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 613
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 655
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 655
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 690
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 691
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 692
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 693
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 694
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 695
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 698
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 730
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._get_activation_fn",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._get_activation_fn",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 2,
+    "dest" : 3,
+    "values" : {
+      "Call" : 6.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CheckpointFunction.forward",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 108
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.FunctionCtx.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 18
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CheckpointFunction.forward",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 108
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.NestedIOFunction.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 708
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CheckpointFunction.forward",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 108
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.FunctionCtx.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 18
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CheckpointFunction.forward",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 108
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.NestedIOFunction.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 708
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._NoopSaveInputs.setup_context",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 566
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.FunctionCtx.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 18
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._NoopSaveInputs.setup_context",
+        "file" : "Pytorch Files/checkpoint.py",
+        "lineNumber" : 566
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.NestedIOFunction.save_for_backward",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 708
+      },
+      "type" : "Call"
+    } ]
+  }, {
+    "src" : 1,
+    "dest" : 0,
+    "values" : {
+      "ImplLink" : 66.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Threshold.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 58
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Threshold.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 58
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 102
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 102
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 168
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 168
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardtanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 235
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardtanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 235
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Sigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 295
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Sigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 295
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardsigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 334
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardsigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 334
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 359
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanh.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 359
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SiLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 396
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SiLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 396
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Mish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 432
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Mish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 432
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardswish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 475
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardswish.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 475
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 517
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.ELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 517
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 561
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.CELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 561
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 610
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.SELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 610
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 644
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 644
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 685
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GELU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 685
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 727
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Hardshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 727
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LeakyReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 777
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LeakyReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 777
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 804
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSigmoid.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 804
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softplus.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 843
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softplus.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 843
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 883
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 883
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1042
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1043
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1044
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1045
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1047
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1049
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1049
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1245
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1245
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1246
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1246
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention.merge_masks",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.PReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1346
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.PReLU.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1346
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softsign.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1372
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softsign.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1372
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanhshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1395
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tanhshrink.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1395
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmin.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1440
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmin.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1440
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1496
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1496
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax2d.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1525
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Softmax2d.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1525
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSoftmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1567
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LogSoftmax.forward",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 1567
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    } ]
+  }, {
+    "src" : 3,
+    "dest" : 1,
+    "values" : {
+      "Use" : 1.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\function.py",
+        "file" : "Pytorch Files/function.py",
+        "lineNumber" : 12
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.__all__",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 12
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 6,
+    "dest" : 0,
+    "values" : {
+      "ImplLink" : 57.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 53
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 53
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 86
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 87
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 87
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 88
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Transformer.generate_square_subsequent_mask",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 152
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 197
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 198
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 199
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 200
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 350
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 351
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 351
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 352
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoder.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 353
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 447
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 447
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 487
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 488
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 489
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 490
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 604
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 605
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 613
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 613
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 655
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 655
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 690
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 691
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 692
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 693
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 694
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 695
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.forward",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 698
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 730
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._sa_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 731
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._mha_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 741
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._get_activation_fn",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._get_activation_fn",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    } ]
+  }, {
+    "src" : 5,
+    "dest" : 0,
+    "values" : {
+      "ImplLink" : 65.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.__init__",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 104
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.flatten_parameters",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 159
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.flatten_parameters",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 167
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_input",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 211
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_input",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 211
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.get_expected_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 225
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.get_expected_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 225
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 239
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 465
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 465
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.get_expected_cell_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 725
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.get_expected_cell_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 725
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 738
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 739
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 739
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 751
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 752
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 752
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 767
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 767
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 768
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 768
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 972
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 972
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCellBase",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1051
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCellBase",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1052
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/_tensor.py",
+        "lineNumber" : 81
+      },
+      "type" : "ImplLink"
+    } ]
+  }, {
+    "src" : 6,
+    "dest" : 1,
+    "values" : {
+      "Call" : 5.0,
+      "Import" : 1.0,
+      "Use" : 8.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 452
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 614
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 660
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 662
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer._ff_block",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 751
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Call"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\transformer.py",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 0
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Import"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\transformer.py",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 15
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.__all__",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 12
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 452
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 477
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerEncoderLayer.__setstate__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 482
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 660
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 662
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.MultiheadAttention",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 908
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 679
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.TransformerDecoderLayer.__init__",
+        "file" : "Pytorch Files/transformer.py",
+        "lineNumber" : 681
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\activation.py",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 0
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 5,
+    "dest" : 1,
+    "values" : {
+      "Use" : 1.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files\\rnn.py",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 15
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.__all__",
+        "file" : "Pytorch Files/activation.py",
+        "lineNumber" : 12
+      },
+      "type" : "Use"
+    } ]
+  }, {
+    "src" : 5,
+    "dest" : 4,
+    "values" : {
+      "Use" : 66.0
+    },
+    "details" : [ {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files._apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 23
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.apply_permutation",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 27
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 43
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.dropout",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 1252
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.__init__",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 104
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.flatten_parameters",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 159
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.flatten_parameters",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 167
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_input",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 211
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_input",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 211
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.get_expected_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 225
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.get_expected_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 225
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_hidden_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 239
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 255
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNBase.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 261
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 460
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 465
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNN.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 465
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.get_expected_cell_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 725
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.get_expected_cell_size",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 725
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 738
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 739
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 739
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.check_forward_args",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 740
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 750
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 751
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 752
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.permute_hidden",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 752
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 760
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 761
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 767
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 767
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 768
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTM.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 768
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 967
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 972
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRU.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 972
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCellBase",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1051
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCellBase",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1052
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.RNNCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1151
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.LSTMCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1251
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    }, {
+      "src" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.GRUCell.forward",
+        "file" : "Pytorch Files/rnn.py",
+        "lineNumber" : 1342
+      },
+      "dest" : {
+        "object" : "C:\\Users\\Calvi\\Downloads\\Pytorch_Files\\Pytorch Files.Tensor",
+        "file" : "Pytorch Files/functional.py",
+        "lineNumber" : 28
+      },
+      "type" : "Use"
+    } ]
+  } ]
+}

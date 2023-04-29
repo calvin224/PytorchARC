@@ -1,0 +1,8 @@
+"FileName","LOC","FanIn","FanOut","DistinctIssueCount","TargetChangeCount","TargetChurn","ChangeCount","ChangeChurn","numClique","numCrossing","isCenter","numModularityViolation","numPackageCycle","numUnhealthyInheritance","numUnstableInterface","isUnstableInterface"
+"Pytorch Files/checkpoint.py","313","0","2","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/_tensor.py","871","3","0","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/activation.py","562","4","2","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/function.py","266","1","1","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/functional.py","2554","3","0","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/rnn.py","660","0","3","0","0","0","0","0","0","0","false","0","0","0","0","false"
+"Pytorch Files/transformer.py","426","0","3","0","0","0","0","0","0","0","false","0","0","0","0","false"
